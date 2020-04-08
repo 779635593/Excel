@@ -1,0 +1,29 @@
+{
+  "name": "zhuoxin/excel",
+  "type": "library",
+  "description": "基于PhpSpreadsheet做的导出导入Excel类",
+  "keywords": [
+    "Excel",
+    "PhpSpreadsheet"
+  ],
+  "homepage": "https://github.com/779635593/Excel.git",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zhuoxin",
+      "email": "779635593@qq.com",
+      "homepage": "https://github.com/779635593/Excel.git",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "phpoffice/phpspreadsheet": "*"
+  },
+  "autoload": {
+    "autoload": {
+      "psr-4": {
+        "Zhuoxin\\Excel\\": "src/"
+      }
+    }
+  }
+}
