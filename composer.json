@@ -20,10 +20,8 @@
     "phpoffice/phpspreadsheet": "*"
   },
   "autoload": {
-    "autoload": {
       "psr-4": {
         "Zhuoxin\\Excel\\": "src/"
       }
-    }
   }
 }

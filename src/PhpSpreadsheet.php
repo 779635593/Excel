@@ -18,7 +18,7 @@ use PhpOffice\PhpSpreadsheet\Style\NumberFormat;
 /*
 基于phpspreadsheet表格操作类
 
-教程：
+单独使用类：
 1.安装：
     composer require phpoffice/phpspreadsheet
 2.使用：
