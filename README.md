@@ -1,6 +1,6 @@
 ### _基于PhpSpreadsheet做的导出导入Excel类_
 
-- 教程：
+> 教程：
 
 - 安装：
 ``composer require zhuoxin/excel``
@@ -41,6 +41,7 @@
      *                             array formula    公式数组
      *                             array format     单元格格式数组
      */
-     
+
+- Github：https://github.com/779635593/Excel.git     
 > 原文链接：https://blog.csdn.net/DestinyLordC/article/details/84071456
   基于原文基础更改封装 --- Zhuo新
