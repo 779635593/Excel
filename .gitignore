@@ -4,13 +4,4 @@
 .settings
 .idea
 .git
-/build
-/public/assets/dist
-/node_modules
-Vagrantfile
-.vagrant
-/data/runtime
-/data/runtime/cache
-/data/lang
-/vendor/workerman/workerman.log
-/public/apk
+/vendor
